@@ -1,0 +1,11 @@
+public class MyClass
+{
+    int x = 5;
+    
+    public static void main (String args[])
+    {
+        MyClass MyObj = new MyClass();
+        System.out.println(MyObj.x);
+    }
+}
+aSDAS

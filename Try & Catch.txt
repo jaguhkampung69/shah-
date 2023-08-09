@@ -1,0 +1,18 @@
+public class MyClass
+{
+    public static void main(String[] args)
+    {
+        try
+        {
+            String[] myTeam = {"Chelsea", "ManU", "ManC", "Arsenal", "Liverpool", "Tottenham"};
+            System.out.println(myTeam[0]);
+            
+        }
+    
+    catch (Exception ex)
+        {
+            System.out.println("Team not found");
+        }
+    }
+    
+}
